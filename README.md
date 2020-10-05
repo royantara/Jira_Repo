@@ -1,6 +1,7 @@
 # Jira_Repo
 
 comment1
+[![Build status](https://dev.azure.com/almvsts1/AntaraPOC/_apis/build/status/JIRA_Pipeline)](https://dev.azure.com/almvsts1/AntaraPOC/_build/latest?definitionId=351)
 
 https://dev.azure.com/almvsts1/AntaraPOC/_apis/build/status/JIRA_Pipeline
 comment
